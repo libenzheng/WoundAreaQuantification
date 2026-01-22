@@ -21,10 +21,15 @@ This codebase was developed to quantify wound healing dynamics from longitudinal
 ## packages
 
 imageio==2.26.0
+
 numpy==1.23.5
+
 scipy==1.10.0
+
 seaborn==0.12.2
+
 pandas==2.2.3
+
 matplotlib==3.7.0
 
 ---

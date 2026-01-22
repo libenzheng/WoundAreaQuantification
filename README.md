@@ -18,9 +18,14 @@ This codebase was developed to quantify wound healing dynamics from longitudinal
 
 ---
 
-## Code Availability
+## packages
 
-The full analysis code will be uploaded and made publicly available **upon official journal publication** of the manuscript.
+imageio==2.26.0
+numpy==1.23.5
+scipy==1.10.0
+seaborn==0.12.2
+pandas==2.2.3
+matplotlib==3.7.0
 
 ---
 
